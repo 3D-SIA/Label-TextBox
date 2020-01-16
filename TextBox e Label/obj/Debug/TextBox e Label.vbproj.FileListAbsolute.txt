@@ -1,0 +1,12 @@
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\TextBox e Label\TextBox e Label\bin\Debug\TextBox e Label.exe.config
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\TextBox e Label\TextBox e Label\bin\Debug\TextBox e Label.exe
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\TextBox e Label\TextBox e Label\bin\Debug\TextBox e Label.pdb
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\TextBox e Label\TextBox e Label\bin\Debug\TextBox e Label.xml
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\TextBox e Label\TextBox e Label\obj\Debug\TextBox e Label.vbprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\TextBox e Label\TextBox e Label\obj\Debug\TextBox_e_Label.Form1.resources
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\TextBox e Label\TextBox e Label\obj\Debug\TextBox_e_Label.Resources.resources
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\TextBox e Label\TextBox e Label\obj\Debug\TextBox e Label.vbproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\TextBox e Label\TextBox e Label\obj\Debug\TextBox e Label.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\TextBox e Label\TextBox e Label\obj\Debug\TextBox e Label.exe
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\TextBox e Label\TextBox e Label\obj\Debug\TextBox e Label.xml
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\TextBox e Label\TextBox e Label\obj\Debug\TextBox e Label.pdb
